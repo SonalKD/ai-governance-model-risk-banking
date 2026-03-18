@@ -42,4 +42,5 @@ The model relies on multiple data sources to generate risk assessments, includin
 
 The quality, completeness, and accuracy of these inputs directly impact the reliability of the model output.
 
-
+## 3. Model processes
+- The model assumes that the data processing logic, feature selection, and underlying algorithms correctly identify, prioritize, and interpret relevant information for accurate risk assessment
