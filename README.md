@@ -1,3 +1,7 @@
+# AI Governance & Model Risk Framework for CDD
+
+A practical project demonstrating how AI Governance and Model Risk principles can be applied to AI-assisted Customer Due Diligence (CDD) in banking.
+
 ## Overview
 
 This project presents an AI Governance & Model Risk framework for an AI-assisted Customer Due Diligence (CDD) use case in banking.
@@ -22,3 +26,9 @@ This project connects real-world FEC/CDD experience with AI Governance and Model
 
 # ai-governance-model-risk-banking
 AI Governance &amp; Model Risk Framework for an AI-assisted CDD Risk Profiling banking use case
+
+
+## Author
+
+Sonal Dongare  
+FEC Analyst | AI Governance & Model Risk (in transition)
