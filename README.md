@@ -8,6 +8,10 @@ This project presents an AI Governance & Model Risk framework for an AI-assisted
 
 The goal is to demonstrate how AI models can be governed, monitored, and validated in a regulated financial environment.
 
+<img width="1536" height="1024" alt="ChatGPT Image Mar 19, 2026, 12_57_11 PM" src="https://github.com/user-attachments/assets/7ebbd07d-4d4f-41b2-a2db-2e83b9251b56" />
+
+
+
 ## Key Areas Covered
 
 - Model assumptions and limitations  
@@ -28,6 +32,8 @@ This project connects real-world FEC/CDD experience with AI Governance and Model
 AI Governance & Model Risk Framework for an AI-assisted CDD Risk Profiling banking use case
 
 ## Model Governance & Controls
+
+<img width="1024" height="1520" alt="ChatGPT Image Mar 19, 2026, 01_03_52 PM" src="https://github.com/user-attachments/assets/719fa409-705c-4008-8146-f36281950fe8" />
 
 To ensure the AI model is used responsibly in a banking environment, the following governance controls are required:
 
@@ -67,6 +73,7 @@ To ensure the AI model is used responsibly in a banking environment, the followi
 
 
 ### 4. Human Oversight
+<img width="1536" height="1024" alt="ChatGPT Image Mar 19, 2026, 12_54_00 PM" src="https://github.com/user-attachments/assets/a38ba0dd-6aae-4f83-a311-6fac6e889d11" />
 
 - The model should be used as a decision-support tool and not as a fully automated decision-maker; final risk classification must remain under human responsibility
 - Analysts should review all model outputs, with a risk-based approach where higher-risk or complex cases (e.g., high-risk or potentially unacceptable clients) receive enhanced scrutiny
