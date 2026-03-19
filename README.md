@@ -124,7 +124,14 @@ To ensure the AI model is used responsibly in a banking environment, the followi
 
 
 
-## Author
+
+## About the Author
+
+Business Analyst with experience in banking, financial crime (CDD/FEC), and data-driven process improvement.
+
+Led automation initiatives within Strategic Workforce Management (SWM), reducing manual processing time from days to seconds by applying data management principles and workflow optimization.
+
+Currently expanding focus into AI Governance and Model Risk, with hands-on work in designing governance frameworks for AI use cases in banking.
 
 Sonal Dongare  
-FEC Analyst | AI Governance & Model Risk (in transition)
+AI Governance & Model Risk Enthusiast | Data & Automation
